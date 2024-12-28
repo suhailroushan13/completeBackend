@@ -1,0 +1,11 @@
+{
+    "PORT":5001,
+    "DB_URL":"",
+    "JWT_SECRET":"",
+    "EMAIL":"",
+    "PASSWORD":"",
+    "TWILIO_SID":"",
+    "TWILIO_TOKEN":"",
+    "TWILIO_NUMBER":"",
+    "SERVER_URL":"http://localhost:5001"
+}
